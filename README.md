@@ -36,7 +36,7 @@ dotnet restore
 
 If you don't already have SQL Server installed:
 
-Download & Install [SQL Server 2025 Express](https://www.microsoft.com/en-us/download/details.aspx?id=104781)
+Download & Install [SQL Server 2022 Express](https://www.microsoft.com/en-us/download/details.aspx?id=104781)
 
 - Run the installer.
 - Choose the **Basic** installation type.
